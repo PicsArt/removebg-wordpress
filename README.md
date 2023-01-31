@@ -1,4 +1,4 @@
-# BG Remover WordPress Plugin
+# Image Background Remover WordPress Plugin
 A simple plugin that allows users to upload an image and removes its background using the Picsart API.
 
 ## Features
